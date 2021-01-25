@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Qs",
+            "request": "launch",
+            "mainClass": "Streams.Qs",
+            "projectName": "Training_Exercises_6ac2c851"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q8",
+            "request": "launch",
+            "mainClass": "Lambda.Q8",
+            "projectName": "Training_Exercises_6ac2c851"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q7",
+            "request": "launch",
+            "mainClass": "Lambda.Q7",
+            "projectName": "Training_Exercises_6ac2c851"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q6",
+            "request": "launch",
+            "mainClass": "Lambda.Q6",
+            "projectName": "Training_Exercises_6ac2c851"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q5",
+            "request": "launch",
+            "mainClass": "Lambda.Q5",
+            "projectName": "Training_Exercises_6ac2c851"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q4",
+            "request": "launch",
+            "mainClass": "Lambda.Q4",
+            "projectName": "Training_Exercises_6ac2c851"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q3",
+            "request": "launch",
+            "mainClass": "Lambda.Q3",
+            "projectName": "Training_Exercises_6ac2c851"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q2",
+            "request": "launch",
+            "mainClass": "Lambda.Q2",
+            "projectName": "Training_Exercises_6ac2c851"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1",
+            "request": "launch",
+            "mainClass": "Lambda.Q1",
+            "projectName": "Training_Exercises_6ac2c851"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q10",
+            "request": "launch",
+            "mainClass": "CollectionFramework.Q10",
+            "projectName": "Training_Exercises_6ac2c851"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q9",
+            "request": "launch",
+            "mainClass": "CollectionFramework.Q9",
+            "projectName": "Training_Exercises_6ac2c851"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q7",
+            "request": "launch",
+            "mainClass": "CollectionFramework.Q7",
+            "projectName": "Training_Exercises_6ac2c851"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q6",
+            "request": "launch",
+            "mainClass": "CollectionFramework.Q6",
+            "projectName": "Training_Exercises_6ac2c851"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q5",
+            "request": "launch",
+            "mainClass": "CollectionFramework.Q5",
+            "projectName": "Training_Exercises_6ac2c851"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q3",
+            "request": "launch",
+            "mainClass": "CollectionFramework.Q3",
+            "projectName": "Training_Exercises_6ac2c851"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1",
+            "request": "launch",
+            "mainClass": "CollectionFramework.Q1",
+            "projectName": "Training_Exercises_6ac2c851"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q2",
+            "request": "launch",
+            "mainClass": "CollectionFramework.Q2",
+            "projectName": "Training_Exercises_6ac2c851"
+        }
+    ]
+}
